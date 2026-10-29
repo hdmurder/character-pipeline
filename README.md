@@ -45,6 +45,8 @@ Qwen3-30B-A3B teacher / later Llama 3.1 405B Base · fabrication checker · d1-2
 
 These are research choices, not a pinned, installed training environment. This release runs offline on Python 3.10+ using only the standard library.
 
+[Current recipe](RECIPE.md) · [Annotated references](references/REFERENCES.md) · [Full literature catalog](references/CATALOG.md) · [BibTeX](references/references.bib) · [Changelog](CHANGELOG.md)
+
 ## Try the planning skeleton
 
 ```sh
