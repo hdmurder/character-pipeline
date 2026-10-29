@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+data/
+runs/
+checkpoints/
+*.gguf
+*.safetensors
+*.pt
+*.bin
