@@ -25,3 +25,7 @@ These links are curated from the broader character-training collection. Build ar
 [World of SWECraft project](https://szj.io/sw) supplies collaboration-environment context. [Avalon-M1](https://www.gr.inc/releases/avalon-m1) supplies a collective-training comparison and safety questions.
 
 Source-model references are [Qwen3.5-4B-Base](https://huggingface.co/Qwen/Qwen3.5-4B-Base), [Qwen3-30B-A3B](https://huggingface.co/Qwen/Qwen3-30B-A3B) and [d1-2B](https://huggingface.co/LiquidAI/d1-2B). These links do not replace immutable revisions or independent artifact verification.
+
+## Community resources (added 2026-10-30)
+- Character Garden, a public listing of trained character models: https://charactergarden.com/
+- Community character-training resources sheet (open datasets, constitutions, LoRAs, weights): https://docs.google.com/spreadsheets/d/1UNr6ycdoZK_WHRQvSg66F1qWmBiEDD4B2-5SI98i3To/edit?gid=1923599130
