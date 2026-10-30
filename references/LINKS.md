@@ -29,3 +29,8 @@ Source-model references are [Qwen3.5-4B-Base](https://huggingface.co/Qwen/Qwen3.
 ## Community resources (added 2026-10-30)
 - Character Garden, a public listing of trained character models: https://charactergarden.com/
 - Community character-training resources sheet (open datasets, constitutions, LoRAs, weights): https://docs.google.com/spreadsheets/d/1UNr6ycdoZK_WHRQvSg66F1qWmBiEDD4B2-5SI98i3To/edit?gid=1923599130
+
+## added 2026-10-31
+- Character training can mitigate reward hacking, but can also hide it: https://www.lesswrong.com/posts/2maYXkEgnfJHPAkxh/character-training-can-mitigate-reward-hacking-but-can-also
+- A list of research directions in character training: https://www.lesswrong.com/posts/6EwuCH3vZ7qvPt82k/a-list-of-research-directions-in-character-training
+- A three-layer model of LLM psychology (Kulveit): https://www.lesswrong.com/posts/zuXo9imNKYspu9HGv/a-three-layer-model-of-llm-psychology
